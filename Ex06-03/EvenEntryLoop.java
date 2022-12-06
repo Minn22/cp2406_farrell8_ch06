@@ -18,7 +18,7 @@ public class EvenEntryLoop
         JOptionPane.showMessageDialog(null,message);
         entry = JOptionPane.showInputDialog(null,
           "Enter an even number or " + QUIT + " to quit");     
-        number =  Integer.parseInt(entry);  
+        number =  Integer.parseInt(entry);
      }   
   }
 }
